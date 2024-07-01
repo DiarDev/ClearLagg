@@ -18,5 +18,5 @@ worlds:
 # Player notifications
 notify-players:
   enable: true
-  message: "All dropped items will be cleared in 60 seconds!"
-  countdown: 60
+  message: "§l§e•§f Tất cả vật phẩm trên mặt đất sẽ bị thổi bay sau 5 phút nữa, hãy dọn đồ!"
+  countdown: 300
